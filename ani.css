@@ -51,8 +51,7 @@ http://flickity.metafizzy.co
   color:#fff;
   height: 44px;
   border: none;
-  background: blue;
-  background: hsla(0, 0%, 100%, 0.75);
+  background: #008ae6;
   cursor: pointer;
   /* vertically center */
   -webkit-transform: translateY(-50%);
@@ -118,7 +117,7 @@ http://flickity.metafizzy.co
   display: inline-block;
   width: 10px;
   height: 10px;
-  margin: 0 8px;
+  margin: 0 4px;
   background: #008ae6;
   opacity: 0.25;
   cursor: pointer;
